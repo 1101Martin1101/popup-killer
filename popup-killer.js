@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         Ultra-fast popup killer
 // @namespace    http://tampermonkey.net/
-// @version      1.4
+// @version      1.5
 // @description  Instantly kills popups at start and returns focus to the original tab almost immediately
 // @author       Kulih
 // @match        *://*.bombuj.si/*
@@ -37,4 +37,5 @@
     }
   }
 })();
+
 
